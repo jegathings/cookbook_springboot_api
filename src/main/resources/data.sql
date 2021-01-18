@@ -1,0 +1,13 @@
+insert into user values(10001, 'James');
+insert into user values(10002,  'Dina');
+insert into user values(10003, 'Marsha');
+insert into user values(10004, 'James Sr');
+insert into user values(10005, 'Wes');
+insert into user values(10006, 'Cooking with AB');
+insert into user values(10007, 'Sam');
+insert into user values(10008, 'Al');
+insert into user values(10009, 'Denise');
+insert into user values(10010, 'Peter');
+insert into user values(10011, 'Cooking with AB');
+insert into recipe values(11001, 'Baked Chicken', 10001);
+insert into recipe values(11002, 'Chocolate Chip Cookies', 10001);
